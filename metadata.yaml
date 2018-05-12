@@ -1,0 +1,41 @@
+_repo: O-Bispo--Nova--Heresia--em-verso_34961
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Sampaio Bruno
+    aliases:
+    - Sampaio, Jose Pereira de
+    - Pereira de Sampaio, José
+    - Sampaio, Bruno
+    - José Pereira de Sampaio (Bruno)
+    - De Sampaio, José Pereira
+    - Sampaio, José Pereira de
+    - Bruno, Sampaio
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '37350'
+    url: http://www.gutenberg.org/2009/agents/37350
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braga, Guilherme
+    birthdate: 1843
+    deathdate: 1874
+    gutenberg_agent_id: '37349'
+    url: http://www.gutenberg.org/2009/agents/37349
+description: ''
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34961'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'O Bispo: Nova «Heresia», em verso'
+url: http://www.gutenberg.org/ebooks/34961
